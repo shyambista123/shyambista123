@@ -26,6 +26,9 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 
+## **Most Used Languages**
+![Languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=shyambista123&layout=pie&theme=transparent)
+
 ## **Let's Connect**
 
 <a href="https://www.linkedin.com/in/shyam-bista-4119bb240/" target="_blank">
