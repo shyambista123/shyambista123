@@ -1,10 +1,11 @@
 <h1 align="center"><b>Hi, I'm Shyam Bista</b> 👋</h1>
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Student;Passionate+Software+Developer">
+</p>
 ## **About Me**
 
 - Computer Science Student
 - Software Development Learner
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shyambista123&label=Profile%20views&color=0e75b6&style=flat" alt="shyambista123" /></p>
 
 ## **Skills**
 
