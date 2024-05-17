@@ -7,6 +7,7 @@
 
 - Computer Science Student
 - Software Development Learner
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shyambista123&label=Profile%20views&color=0e75b6&style=flat" alt="shyambista123" /></p>
 
 ## **Skills**
 
