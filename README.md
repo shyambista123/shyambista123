@@ -6,7 +6,7 @@
 ## **About Me**
 
 - Computer Science Student
-- Software Development Learner
+- Software Developer
 
 ## **Skills**
 
