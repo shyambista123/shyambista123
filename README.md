@@ -1,5 +1,5 @@
 <h1 align="center">Shyam Bista</h1>
-<p align="center">Backend Engineer · Kathmandu, Nepal</p>
+<p align="center">Software Engineer · Kathmandu, Nepal</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=Event-driven+backends;Kafka+%7C+CDC+%7C+Kubernetes" alt="Typing SVG" />
@@ -21,8 +21,10 @@ I build event-driven backends — Kafka, CDC, and the Kubernetes clusters that k
 <img src="https://img.shields.io/badge/kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
 <img src="https://img.shields.io/badge/python-14354C?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/postgresql-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-</p>
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=shyambista&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img src="https://img.shields.io/badge/mysql-00000F?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
+<img src="https://img.shields.io/badge/git-F05033?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
 </p>
